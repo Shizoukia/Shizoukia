@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Shizoukia-XY&fontSize=60">
+</p>
 
-<!--
-**Shizoukia/Shizoukia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Charmve/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Shizoukia&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
 
-Here are some ideas to get you started:
+<p align="center">
+  <h1> Hi :D 👋 Welcome to my Profile(?)
+  </h1>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <a href="https://github.com/Shizoukia" class="rich-diff-level-one">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shizoukia&show_icons=true" alt="Status" >
+    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shizoukia&langs_count=5&layout=compact">
+  </a>
+</p>
+
+
