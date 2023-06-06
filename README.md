@@ -3,7 +3,7 @@
 </a>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Shizoukia-XY&fontSize=60">
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:0080FF,100:EF00FF&height=200&animation=fadeIn&section=header&text=Shizoukia-XY&fontColor=ffffff&fontSize=60&">
 </p>
 
   <h1 align="center"> Hi :D 👋 Welcome to my Profile. Im Shizoukia</h1>
