@@ -1,15 +1,13 @@
+<a href="https://github.com/Charmve/computer-vision-in-action">
+    <img align="right" src="https://komarev.com/ghpvc/?username=Shizoukia&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+</a>
+<br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&animation=fadeIn&section=header&text=Shizoukia-XY&fontSize=60">
 </p>
 
-<a href="https://github.com/Charmve/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=Shizoukia&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
+  <h1 align="center"> Hi :D 👋 Welcome to my Profile. Im Shizoukia</h1>
 
-<p align="center">
-  <h1> Hi :D 👋 Welcome to my Profile(?) (I hope this can centered)
-  </h1>
-</p>
 
 <br>
 
