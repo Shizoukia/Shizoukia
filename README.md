@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <h1> Hi :D 👋 Welcome to my Profile(?)
+  <h1> Hi :D 👋 Welcome to my Profile(?) (I hope this can be centered)
   </h1>
 </p>
 
