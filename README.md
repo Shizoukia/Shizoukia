@@ -7,7 +7,7 @@
 </a>
 
 <p align="center">
-  <h1> Hi :D 👋 Welcome to my Profile(?) (I hope this can be centered)
+  <h1> Hi :D 👋 Welcome to my Profile(?) (I hope this can centered)
   </h1>
 </p>
 
@@ -19,5 +19,3 @@
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizoukia&layout=compact" >
   </a>
 </p>
-
-
