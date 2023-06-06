@@ -16,7 +16,6 @@
 <p align="center">
   <a href="https://github.com/Shizoukia" class="rich-diff-level-one">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shizoukia&show_icons=true" alt="Status" >
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Shizoukia&langs_count=5&layout=compact">
   </a>
 </p>
 
