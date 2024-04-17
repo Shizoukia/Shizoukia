@@ -1,3 +1,4 @@
+<!--suppress HtmlDeprecatedAttribute -->
 <a href="https://github.com/Shizoukia">
     <img align="right" src="https://komarev.com/ghpvc/?username=Shizoukia&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
@@ -11,9 +12,22 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Shizoukia" class="rich-diff-level-one">
+<div align="center">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shizoukia&show_icons=true" alt="Status" >
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shizoukia&layout=compact" >
-  </a>
-</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+</div>
+<div align="center">
+    
+#### The public repository doesn't have what you want, it's just some trash
+#### 如果你想查我成分 别揪着公开库了 有价值的我要自己留着玩
+
+</div>
